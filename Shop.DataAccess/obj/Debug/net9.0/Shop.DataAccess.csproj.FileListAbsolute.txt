@@ -1,0 +1,12 @@
+D:\TasksITI\Ado\ShopProject\Shop.DataAccess\bin\Debug\net9.0\Shop.DataAccess.deps.json
+D:\TasksITI\Ado\ShopProject\Shop.DataAccess\bin\Debug\net9.0\Shop.DataAccess.dll
+D:\TasksITI\Ado\ShopProject\Shop.DataAccess\bin\Debug\net9.0\Shop.DataAccess.pdb
+D:\TasksITI\Ado\ShopProject\Shop.DataAccess\obj\Debug\net9.0\Shop.DataAccess.csproj.AssemblyReference.cache
+D:\TasksITI\Ado\ShopProject\Shop.DataAccess\obj\Debug\net9.0\Shop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\TasksITI\Ado\ShopProject\Shop.DataAccess\obj\Debug\net9.0\Shop.DataAccess.AssemblyInfoInputs.cache
+D:\TasksITI\Ado\ShopProject\Shop.DataAccess\obj\Debug\net9.0\Shop.DataAccess.AssemblyInfo.cs
+D:\TasksITI\Ado\ShopProject\Shop.DataAccess\obj\Debug\net9.0\Shop.DataAccess.csproj.CoreCompileInputs.cache
+D:\TasksITI\Ado\ShopProject\Shop.DataAccess\obj\Debug\net9.0\Shop.DataAccess.dll
+D:\TasksITI\Ado\ShopProject\Shop.DataAccess\obj\Debug\net9.0\refint\Shop.DataAccess.dll
+D:\TasksITI\Ado\ShopProject\Shop.DataAccess\obj\Debug\net9.0\Shop.DataAccess.pdb
+D:\TasksITI\Ado\ShopProject\Shop.DataAccess\obj\Debug\net9.0\ref\Shop.DataAccess.dll

@@ -1,0 +1,15 @@
+D:\TasksITI\Ado\ShopProject\Shop.BusinessLogic\bin\Debug\net9.0\Shop.BusinessLogic.deps.json
+D:\TasksITI\Ado\ShopProject\Shop.BusinessLogic\bin\Debug\net9.0\Shop.BusinessLogic.dll
+D:\TasksITI\Ado\ShopProject\Shop.BusinessLogic\bin\Debug\net9.0\Shop.BusinessLogic.pdb
+D:\TasksITI\Ado\ShopProject\Shop.BusinessLogic\bin\Debug\net9.0\Shop.DataAccess.dll
+D:\TasksITI\Ado\ShopProject\Shop.BusinessLogic\bin\Debug\net9.0\Shop.DataAccess.pdb
+D:\TasksITI\Ado\ShopProject\Shop.BusinessLogic\obj\Debug\net9.0\Shop.BusinessLogic.csproj.AssemblyReference.cache
+D:\TasksITI\Ado\ShopProject\Shop.BusinessLogic\obj\Debug\net9.0\Shop.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\TasksITI\Ado\ShopProject\Shop.BusinessLogic\obj\Debug\net9.0\Shop.BusinessLogic.AssemblyInfoInputs.cache
+D:\TasksITI\Ado\ShopProject\Shop.BusinessLogic\obj\Debug\net9.0\Shop.BusinessLogic.AssemblyInfo.cs
+D:\TasksITI\Ado\ShopProject\Shop.BusinessLogic\obj\Debug\net9.0\Shop.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\TasksITI\Ado\ShopProject\Shop.BusinessLogic\obj\Debug\net9.0\Shop.Bus.713F4B62.Up2Date
+D:\TasksITI\Ado\ShopProject\Shop.BusinessLogic\obj\Debug\net9.0\Shop.BusinessLogic.dll
+D:\TasksITI\Ado\ShopProject\Shop.BusinessLogic\obj\Debug\net9.0\refint\Shop.BusinessLogic.dll
+D:\TasksITI\Ado\ShopProject\Shop.BusinessLogic\obj\Debug\net9.0\Shop.BusinessLogic.pdb
+D:\TasksITI\Ado\ShopProject\Shop.BusinessLogic\obj\Debug\net9.0\ref\Shop.BusinessLogic.dll
